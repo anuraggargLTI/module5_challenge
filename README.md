@@ -15,3 +15,6 @@ Below are the libraries that are used in the program :
     5) alpaca_trade_api  
     6) MCSimulation
 
+Below are the functions in the program :  
+    Part 1 : Create a financial planner for emergencies  
+    Part 2 : Create a financial planner for retirement  
